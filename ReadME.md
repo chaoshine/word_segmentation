@@ -23,6 +23,8 @@
 
 Python3.6.5
 
+[![Supported Python Versions](https://img.shields.io/pypi/pyversions/rasa_nlu.svg)](https://pypi.python.org/pypi/rasa_nlu)
+
 原理参见：
 
 https://blog.csdn.net/chaoshine/article/details/89814869
