@@ -21,6 +21,8 @@
 
 ---
 
-代码测试 Python3.6.5
+Python3.6.5
 
-原理参见 https://blog.csdn.net/chaoshine/article/details/89814869
+原理参见：
+
+https://blog.csdn.net/chaoshine/article/details/89814869
