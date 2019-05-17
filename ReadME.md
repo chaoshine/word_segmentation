@@ -21,7 +21,7 @@
 
 ---
 
-[![Python 3.6.5](https://www.python.org/downloads/)]
+Python Version [![3.6.5](https://www.python.org/downloads/)]
 
 原理参见：
 
