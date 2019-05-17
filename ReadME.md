@@ -1,3 +1,5 @@
+分词，是自然语言处理的第一步！本项目只针对中文分词进行研究！
+
 ### 分词原理：
 
 https://blog.csdn.net/chaoshine/article/details/89814869
