@@ -21,9 +21,7 @@
 
 ---
 
-Python3.6.5
-
-[![Supported Python Versions](https://img.shields.io/pypi/pyversions/rasa_nlu.svg)](https://pypi.python.org/pypi/rasa_nlu)
+[![Python Versions](https://www.python.org/downloads/)]
 
 原理参见：
 
