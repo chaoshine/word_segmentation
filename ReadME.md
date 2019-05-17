@@ -1,3 +1,9 @@
+分词原理：
+
+https://blog.csdn.net/chaoshine/article/details/89814869
+
+---
+
 规则分词包含:
 
     正向最大匹配（MM.py）
@@ -21,8 +27,4 @@
 
 ---
 
-Python Version [![3.6.5](https://www.python.org/downloads/)]
-
-原理参见：
-
-https://blog.csdn.net/chaoshine/article/details/89814869
+Python Version [![v3.6.5](https://www.python.org/downloads/)]
