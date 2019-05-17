@@ -15,3 +15,7 @@
 混合分词包含：
 
     SVM、HMM、MEMM、CRF
+
+---
+
+原理参见：https://blog.csdn.net/chaoshine/article/details/89814869
