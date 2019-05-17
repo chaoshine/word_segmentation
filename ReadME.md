@@ -1,52 +1,17 @@
+规则分词包含:
 
+    商务国际辞书编辑部，《现代汉语词典（实用版）》[M]，商务印书馆国际有限公司，2018年06月。
+    商务印书馆辞书研究中心，《古代汉语词典（第2版）》[M]，商务印书馆，2014年03月。
+    说词解字辞书研究中心，《成语大词典》[M]，华语教学出版社，2017年12月。
 
-规则分词
-统计分词
-混合分词
+相对应词料:
 
+    字头和词目67000余个
+    单字14200个（包括繁体字和异体字），复音词28000条
+    收词20000余条
 
-Rasa (Rasa Core + Rasa NLU)
+---
 
-Join the chat on Rasa Community Forum PyPI version Supported Python Versions Build Status Coverage Status Documentation Status FOSSA Status
+混合分词包含：
 
-Note This repository now contains the code for both Rasa NLU AND Rasa Core. Nothing has changed yet in terms of usage, but we are in the process of simplifying everything ahead of the next major release.
-
-Rasa is a framework for building conversational software, which includes chatbots on:
-
-    Facebook Messenger
-    Slack
-    Microsoft Bot Framework
-    Rocket.Chat
-    Mattermost
-    Telegram
-    Twilio
-
-But you can also build assistants using:
-
-    Alexa Skills
-    Google Home Actions
-
-Rasa's primary purpose is to help you build contextual, layered conversations with lots of back-and-forth. To have a real conversation, you need to have some memory and build on things that were said earlier. Rasa lets you do that in a scalable way.
-
-There's a lot more background information in this blog post.
-
-    What do Rasa Core & NLU do? 🤔 Read About Rasa
-
-    I'd like to read the detailed docs 🤓 Read The Docs
-
-    I'm ready to install Rasa! 🚀 Installation
-
-    I have a question ❓ Rasa Community Forum
-
-    I would like to contribute 🤗 How to contribute
-
-Where to get help
-
-There is extensive documentation at Rasa Docs. Make sure to select the correct version so you are looking at the docs for the version you installed.
-
-Please use Rasa Community Forum for quick answers to questions.
-README Contents:
-
-    How to contribute
-    Development Internals
-    License
+    SVM、HMM、MEMM、CRF
